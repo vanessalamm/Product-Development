@@ -1,7 +1,7 @@
 # Udacity's Product Manager Nanodegree
 ## PROJECT 03: Manage Product Development
 
-FINAL REVIEW:
+FINAL REVIEW:[https://review.udacity.com/?utm_campaign=ret_000_auto_ndxxx_submission-reviewed&utm_source=blueshift&utm_medium=email&utm_content=reviewsapp-submission-reviewed&bsft_clkid=6d0e0de0-5b13-48d7-a411-3a89653293dd&bsft_uid=436db819-1ea0-4c90-808b-771cf00ebf26&bsft_mid=ae1d0c11-d0bd-4195-a871-03385e7338f8&bsft_eid=6f154690-7543-4582-9be7-e397af208dbd&bsft_txnid=eb8681d5-2894-4b90-a6c8-2359f3a01af2&bsft_mime_type=html&bsft_ek=2021-08-30T11%3A54%3A31Z&bsft_aaid=8d7e276e-4a10-41b2-8868-423fe96dd6b2&bsft_lx=2&bsft_tv=5#!/reviews/3132976]
 
 ### Context
 Your project’s MVP scope has been translated into a PRD and is now ready to move into the development phase. Your development team has adopted Agile Scrum methodology principles to manage their development cycle. Each sprint runs for 2 weeks followed by a release to the production environment.
